@@ -1,0 +1,1 @@
+word_ya,freq_word_ya(frekuensi sesuai masing masing word),total_word_ya,word_tidak,freq_word_tidak(frekuensi sesuai masing masing word),total_word_tidak
