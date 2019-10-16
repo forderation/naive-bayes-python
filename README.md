@@ -5,6 +5,6 @@ for understanding read more about term frequency and naive bayes calculation
 # For use
 ```sh
 python3 -m pip install -r requirements.txt
-python3 app.py
+python3 hagoML.py
 open http://www.localhost:5000
 ```
